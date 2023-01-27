@@ -1,6 +1,6 @@
 # frt_project
 ## Description
-This is web site of stylish photogallery designed by Mohammed Tameem Ahad.
+This is website of stylish photogallery designed by Mohammed Tameem Ahad.
 
 Industry : Lifestyle
 
@@ -17,6 +17,13 @@ Primary Azure Technology : Static Web Apps, App Services.
 
 ## Static Web App link: https://lively-sky-00b09ba00.2.azurestaticapps.net/
 ## App Services link: https://pixshot.azurewebsites.net/
+
+## #Azure resources
+![image](https://user-images.githubusercontent.com/117996715/213490314-303b4475-8a08-4dad-920c-f110c049c7fe.png)
+
+![image](https://user-images.githubusercontent.com/117996715/213490112-e7f4b0f1-833f-47ca-a159-300aa6831e87.png)
+
+![image](https://user-images.githubusercontent.com/117996715/213490212-9247e0d9-aea6-4e7e-b866-3e2438058970.png)
 
 
 ## #Home
@@ -50,11 +57,6 @@ Primary Azure Technology : Static Web Apps, App Services.
 ## #Demo video
 https://drive.google.com/file/d/11JQ0iuGkfQiA1FDmjAYEImxYtHKsLr35/view?usp=sharing
 
-## #Azure resources
-![image](https://user-images.githubusercontent.com/117996715/213490314-303b4475-8a08-4dad-920c-f110c049c7fe.png)
 
-![image](https://user-images.githubusercontent.com/117996715/213490112-e7f4b0f1-833f-47ca-a159-300aa6831e87.png)
-
-![image](https://user-images.githubusercontent.com/117996715/213490212-9247e0d9-aea6-4e7e-b866-3e2438058970.png)
 
 
